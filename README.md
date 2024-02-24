@@ -17,7 +17,7 @@
 ## Using different environments (dev, preview, www)
 
 - Run `amplify env add` to add a new environment (f.e. "preview" or "www")
-- Run `amplify init`
+- Run `amplify init` and choose to initialize the newly created environment
 - Run `amplify push` to push the newly created environment
 
 ## Play
