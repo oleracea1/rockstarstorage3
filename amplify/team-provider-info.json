@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rockstarstorage3-dev-193635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::030760499811:role/amplify-rockstarstorage3-dev-193635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::030760499811:role/amplify-rockstarstorage3-dev-193635-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rockstarstorage3-dev-193635-deployment",
+      "UnauthRoleName": "amplify-rockstarstorage3-dev-193635-unauthRole",
+      "StackName": "amplify-rockstarstorage3-dev-193635",
+      "StackId": "arn:aws:cloudformation:us-east-1:030760499811:stack/amplify-rockstarstorage3-dev-193635/fe237270-cb67-11ee-bd23-12c930b0c1ff",
+      "AmplifyAppId": "du9ovhqkjibe1"
+    },
+    "categories": {
+      "auth": {
+        "rockstarstorage39fee9b96": {}
+      },
+      "storage": {
+        "resource": {}
+      },
+      "api": {
+        "rockstarstorage3": {}
+      }
+    }
+  }
+}
