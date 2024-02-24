@@ -14,6 +14,12 @@
 
 - Run `npm run dev` to start your local development-server. (Usually: `http://localhost:3000/`)
 
+## Using different environments (dev, preview, www)
+
+- Run `amplify env add` to add a new environment.
+- Run `amplify init`
+- Run `amplify push` to push the newly created environment
+
 ## Play
 
 - Have fun creating your own music database!
