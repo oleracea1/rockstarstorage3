@@ -8,7 +8,7 @@
       </div>
     </div>
     <div class="logo-container">
-      <img src="public/itrlogo_transp_flo.png" alt="IT Rockstars Logo" class="logo" />
+      <img src="./src/itrlogo_transp_flo.png" alt="IT Rockstars Logo" class="logo" />
     </div>
   </div>
 </template>
